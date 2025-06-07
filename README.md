@@ -5,10 +5,10 @@
 • polars
 
 ## How to run:
-python -m venv venv
 
 • python get_trading_analysis.py "Acadian_Assessment/CSV/Sample Trade Data.csv"
 
+## How the script works
 • Scripts starts by ingesting the data as a Polars DataFrame and cleaning the null records
 
 • Queries the dataframe for records with CounterpartyID = 5
