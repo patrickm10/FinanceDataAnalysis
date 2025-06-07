@@ -174,7 +174,7 @@ def validate_dataframe(df: pl.DataFrame) -> pl.DataFrame:
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Acadian Assessment")
+    parser = argparse.ArgumentParser(description="Finance Analysis")
     parser.add_argument("csv_file", type=str)
     args = parser.parse_args()
 
