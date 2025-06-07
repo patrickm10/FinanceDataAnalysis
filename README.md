@@ -1,4 +1,4 @@
-# FinanceDataAnalysis
+# Finance Data Analysis
 
 ## Dependencies:
 
